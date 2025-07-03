@@ -56,8 +56,8 @@ Problem Statement: Write a Python program that:
 3.  Prints a personalized greeting message using the full name.
 4.  Input Collection:
 
-    a = input('Enter Your First name: ')
-    b = input('Enter Your Last name: ')
+              a = input('Enter Your First name: ')
+              b = input('Enter Your Last name: ')
 
     The program prompts the user to enter their first name and stores it in variable a.
 
@@ -65,14 +65,14 @@ Problem Statement: Write a Python program that:
 
     String Conversion (Redundant in This Case):
 
-    a = str(a)
-    b = str(b)
+              a = str(a)
+              b = str(b)
 
     This converts the input to strings, but since input() already returns strings by default, this step is unnecessary unless you expect other data types in future           versions.
 
     Output:
 
-    print('Hello,', a, b + '! Welcome to the Python program.')
+              print('Hello,', a, b + '! Welcome to the Python program.')
 
     The program prints a personalized greeting like:
 
