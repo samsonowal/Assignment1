@@ -10,6 +10,7 @@ o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen.
 4.  Input Collection:
+
           a = input('Enter the first number: ')
           b = input('Enter the second number: ')
    The program prompts the user to enter two numbers. These inputs are initially read as strings.
