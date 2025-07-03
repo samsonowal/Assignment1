@@ -13,6 +13,7 @@ o	Division
 
           a = input('Enter the first number: ')
           b = input('Enter the second number: ')
+
     The program prompts the user to enter two numbers. These inputs are initially read as strings.
 
     Type Conversion:
@@ -23,6 +24,7 @@ o	Division
     The input strings are converted into integers using the int() function, so arithmetic operations can be performed.
 
     Arithmetic Operations:
+    
           add = a + b
           sub = a - b
           mul = a * b
@@ -35,15 +37,17 @@ o	Division
      Division (float division) and stores the result in div.
 
     Output Results:
-        print('Addition= ', add)
-        print('Subtraction= ', sub)
-        print('Multiplication= ', mul)
-        print('Division= ', div)
+
+          print('Addition= ', add)
+          print('Subtraction= ', sub)
+          print('Multiplication= ', mul)
+          print('Division= ', div)
+
     Each result is printed on a new line with a label.
 
 
-5.  Output:
-6.  ![Screenshot 2025-07-03 121714](https://github.com/user-attachments/assets/408437c6-38e2-4c5e-a585-e860c118f9b4)
+6.  Output:
+7.  ![Screenshot 2025-07-03 121714](https://github.com/user-attachments/assets/408437c6-38e2-4c5e-a585-e860c118f9b4)
 
 
 
