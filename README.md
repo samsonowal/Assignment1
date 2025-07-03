@@ -8,7 +8,8 @@ o	Subtraction
 o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen.
-4.  ![Screenshot 2025-07-03 121714](https://github.com/user-attachments/assets/408437c6-38e2-4c5e-a585-e860c118f9b4)
+4.  Output:
+5.  ![Screenshot 2025-07-03 121714](https://github.com/user-attachments/assets/408437c6-38e2-4c5e-a585-e860c118f9b4)
 
 
 Task 2: Create a Personalized Greeting
@@ -16,4 +17,5 @@ Problem Statement: Write a Python program that:
 1.  Takes a user's first name and last name as input.
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
-4.  ![Screenshot 2025-07-03 122159](https://github.com/user-attachments/assets/9b2e55e2-4b93-4d9b-928d-c11078a4b3f0)
+4.  Output:
+5.  ![Screenshot 2025-07-03 122159](https://github.com/user-attachments/assets/9b2e55e2-4b93-4d9b-928d-c11078a4b3f0)
