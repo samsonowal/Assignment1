@@ -13,9 +13,9 @@ o	Division
 
           a = input('Enter the first number: ')
           b = input('Enter the second number: ')
-   The program prompts the user to enter two numbers. These inputs are initially read as strings.
+    The program prompts the user to enter two numbers. These inputs are initially read as strings.
 
-   Type Conversion:
+    Type Conversion:
 
           a = int(a)
           b = int(b)
@@ -29,10 +29,10 @@ o	Division
           div = a / b
 
     The program performs:
-        Addition and stores the result in add.
-        Subtraction and stores the result in sub.
-        Multiplication and stores the result in mul.
-        Division (float division) and stores the result in div.
+     Addition and stores the result in add.
+     Subtraction and stores the result in sub.
+     Multiplication and stores the result in mul.
+     Division (float division) and stores the result in div.
 
     Output Results:
         print('Addition= ', add)
